@@ -7,3 +7,5 @@ _Dance of Beavertail_ involved the use of Verilog for architectural design, inpu
 
 ### Final Project Demo Video:
 > https://www.youtube.com/watch?v=2wIzTREtuoM
+
+![beaver](https://github.com/suyeon240park/ECE241/assets/123034036/558bb87c-e5d2-4657-989a-3a2fcd0c4081)
